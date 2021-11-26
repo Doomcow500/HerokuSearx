@@ -1,5 +1,6 @@
 FROM alpine:latest
 
+
 EXPOSE 8080
 VOLUME /etc/searx
 VOLUME /var/log/uwsgi
